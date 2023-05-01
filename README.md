@@ -20,6 +20,8 @@ This package contains all the features of the Uniswap smart contract and support
 
 You can do swaps on the most popular dexs of Ethereum and their subnets using this package, the 30 or 80 lines of code you needed before are now reduced to just a few.
 
+This package has support so far with Ethereum, Binance Smart Chain and Polygon, if you want support with any other exchange or network open an issue and we will add it.
+
 ## Supported exchanges
 
 
