@@ -2,6 +2,20 @@
 
 This package contains all the features of the Uniswap smart contract and supports its use on other exchanges and other networks. 
 
+<div style="display: flex; justify-content: center;">
+
+  <img src="https://img.shields.io/pub/v/uniswap?color=green">
+
+  <img src="https://img.shields.io/pub/points/uniswap">
+
+  <img src="https://img.shields.io/pub/popularity/shitcoin_price?color=green">
+
+  <img src="https://img.shields.io/badge/maintenance%20status-actively%20developed-brightgreen">
+
+  <img src="https://img.shields.io/badge/coverage-92%25-orange">
+
+</div>
+
 ## Features
 
 You can do swaps on the most popular dexs of Ethereum and their subnets using this package, the 30 or 80 lines of code you needed before are now reduced to just a few.
