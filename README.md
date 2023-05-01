@@ -1,6 +1,6 @@
-## Uniswap 
+## Uniswap 🦄
 
-This package contains all the features of the Uniswap Smart contract and supports its use on other exchanges and other networks. 
+This package contains all the features of the Uniswap smart contract and supports its use on other exchanges and other networks. 
 
 ## Features
 
@@ -9,11 +9,11 @@ You can do swaps on the most popular dexs of Ethereum and their subnets using th
 ## Supported exchanges
 
 
-- [Uniswap](https://app.uniswap.org/)
+- [x] [Uniswap](https://app.uniswap.org/)
 
-- [Pancakeswap](https://pancakeswap.finance)
+- [x] [Pancakeswap](https://pancakeswap.finance)
 
-- [Quickswap](https://quickswap.exchange)
+- [ ] [Quickswap](https://quickswap.exchange)
 
 ## Supported functions 
 
