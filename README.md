@@ -1,9 +1,10 @@
-Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+## Uniswap 
+
+This package contains all the features of the Uniswap Smart contract and supports its use on other exchanges and other networks. 
 
 ## Features
 
-You can trade cryptos on most popular dex at Ethereum and their subnets using this package, the 30 or 80 lines of code you needed before are now reduced to just a few.
+You can do swaps on the most popular dexs of Ethereum and their subnets using this package, the 30 or 80 lines of code you needed before are now reduced to just a few.
 
 ## Supported exchanges
 
