@@ -9,22 +9,25 @@ You can trade cryptos on most popular dex at Ethereum and their subnets using th
 
 
 - [Uniswap](https://app.uniswap.org/)
+
 - [Pancakeswap](https://pancakeswap.finance)
+
+- [Quickswap](https://quickswap.exchange)
 
 ## Supported functions 
 
 
-- swapExactETHForTokens
+- `swapExactETHForTokens`
 
-- swapExactTokensForETH
+- `swapExactTokensForETH`
 
-- swapExactTokensForTokens
+- `swapExactTokensForTokens`
 
-- swapETHForExactTokens
+- `swapETHForExactTokens`
 
-- swapTokensForExactETH
+- `swapTokensForExactETH`
 
-- swapTokensForExactTokens
+- `swapTokensForExactTokens`
 
 ## Getting started
 
@@ -43,7 +46,7 @@ dependencies:
 Below you will see some examples of how to implement each function.
 
 ```dart
-final like = 'sample';
+final swapExactETHForTokens = await Uniswap().swapExactETHForTokens();
 ```
 
 ## Additional information
