@@ -3,12 +3,34 @@ know whether this package might be useful for them.
 
 ## Features
 
-List what your package can do. Maybe include images, gifs, or videos.
+You can trade cryptos on most popular dex at Ethereum and their subnets using this package, the 30 or 80 lines of code you needed before are now reduced to just a few.
+
+## Supported functions 
+
+
+- swapExactETHForTokens
+
+- swapExactTokensForETH
+
+- swapExactTokensForTokens
+
+- swapETHForExactTokens
+
+- swapTokensForExactETH
+
+- swapTokensForExactTokens
 
 ## Getting started
 
-List prerequisites and provide or point to information on how to
-start using the package.
+Add the package to your pubspec.yaml file as shown below.
+```dart
+
+dependencies:
+
+  uniswap: any
+
+```
+
 
 ## Usage
 
@@ -16,7 +38,7 @@ Include short and useful examples for package users. Add longer examples
 to `/example` folder.
 
 ```dart
-const like = 'sample';
+final like = 'sample';
 ```
 
 ## Additional information
