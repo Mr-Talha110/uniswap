@@ -51,6 +51,8 @@ final swapExactETHForTokens = await Uniswap().swapExactETHForTokens();
 
 ## Additional information
 
-Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+Initially this package was created for personal use in order to avoid writing so much code rather perform swaps with just 5 to 10 lines.
+
+You can check the code if you have doubts regarding security, any contribution or idea to improve is welcome!
+
+Greetings and I hope you find it useful. ⚡
