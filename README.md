@@ -5,6 +5,12 @@ know whether this package might be useful for them.
 
 You can trade cryptos on most popular dex at Ethereum and their subnets using this package, the 30 or 80 lines of code you needed before are now reduced to just a few.
 
+## Supported exchanges
+
+
+- [Uniswap](https://app.uniswap.org/)
+- [Pancakeswap](https://pancakeswap.finance)
+
 ## Supported functions 
 
 
@@ -34,8 +40,7 @@ dependencies:
 
 ## Usage
 
-Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Below you will see some examples of how to implement each function.
 
 ```dart
 final like = 'sample';
