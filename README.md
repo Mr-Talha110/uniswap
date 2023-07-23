@@ -22,15 +22,6 @@ You can do swaps on the most popular dexs of Ethereum and their subnets using th
 
 This package has support so far with Ethereum, Binance Smart Chain and Polygon, if you want support with any other exchange or network open an issue and we will add it.
 
-## Supported exchanges
-
-
-- [x] [Uniswap](https://app.uniswap.org/)
-
-- [x] [Pancakeswap](https://pancakeswap.finance)
-
-- [ ] [Quickswap](https://quickswap.exchange)
-
 ## Supported functions 
 
 
