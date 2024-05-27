@@ -11,7 +11,7 @@ dependencies:
   erc20: ^1.0.1
   flutter:
     sdk: flutter
-  http: ^0.13.5
+  http: ^1.2.1
   web3dart: ^2.6.1
 
 dev_dependencies:
